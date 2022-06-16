@@ -21,7 +21,7 @@ Order ID will be used in the future. I am currently working on creating a printi
 
 # Update-:-16.06.2022
 
-Generally, there are not that much changes in this update. The only change that was made is making it work with Vue framework and there is a lot of work which still has to be done
+Generally, there are not that much changes in this update. The only change that was made is making it work with Vue framework and there is a lot of work which still has to be done. To start the project, I have opened the project in Visual Studio Code, opened the terminal there and wrote this command: "npm run serve".
 
 # Upcoming-updates:
 1) Optimizing openTables() method, since it is highly unefficient and so far is accessible only by pressing "Press Me!" button. I will emit the openTables() method to the App.vue component and trigger it as the id value changes.
