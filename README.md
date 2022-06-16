@@ -1,9 +1,9 @@
-# First-Js-Project
+# First Js Project
 
 I wrote this code through Visual Studio and ran it by using Live Server extension in Visual Studio
 
 
-# How-To-Work-With-it
+# How To Work With it
 
 This is a glass bending calculator. In order to bend glass properly, you should know five variables:
 
@@ -19,11 +19,11 @@ This program calculates all five variables by using any of these five combinatio
 
 Order ID will be used in the future. I am currently working on creating a printing template for this javascript program.
 
-# Update-:-16.06.2022
+# Update : 16.06.2022
 
 Generally, there are not that much changes in this update. The only change that was made is making it work with Vue framework and there is a lot of work which still has to be done. To start the project, I have opened the project in Visual Studio Code, opened the terminal there and wrote this command: "npm run serve".
 
-# Upcoming-updates:
+# Upcoming updates:
 1) Optimizing openTables() method, since it is highly unefficient and so far is accessible only by pressing "Press Me!" button. I will emit the openTables() method to the App.vue component and trigger it as the id value changes.
 2) Working with styles of certain components, especially input and result tables.
 3) Create a template for printing the outputs of the calculations (that is what the Order ID field was originally created for).
